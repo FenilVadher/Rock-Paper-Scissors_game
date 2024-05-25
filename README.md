@@ -1,4 +1,4 @@
-# Stone-Paper-Scissors_game
+# Rock-Paper-Scissors_game
 
 # 🪨📄✂️ Rock-Paper-Scissors Game
 
